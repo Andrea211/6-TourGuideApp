@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#E3F2FD</item>
+        <item name="colorPrimaryDark">#2196F3</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <!-- Style for a tab that displays a category name -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/white</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabTextAppearance">@style/CategoryTabTextAppearance</item>
+    </style>
+
+    <!-- Text appearance style for a category tab -->
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#F8F8FA</item>
+    </style>
+
+    <!-- Style for the header of a place -->
+    <style name="Header" parent="Theme.AppCompat.Light">
+        <item name="android:paddingLeft">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingRight">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingTop">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginBottom">@dimen/activity_horizontal_margin</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/header_colour</item>
+    </style>
+
+    <!-- Style for a layout -->
+    <style name="Layout" parent="Theme.AppCompat.Light">
+        <item name="android:paddingLeft">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingRight">@dimen/activity_vertical_margin</item>
+        <item name="android:paddingBottom">@dimen/small_padding</item>
+    </style>
+
+</resources>

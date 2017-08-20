@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="button">Show map</string>
+
+    <string name="category_hotels">Hotels</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_thingsToDo">Things to do</string>
+    <string name="category_events">Events</string>
+
+    <string name="hotel1_name">Hilton</string>
+    <string name="hotel1_address">Targ Rybny 1, Gdansk 80-838, Poland</string>
+    <string name="hotel1_phone">58 778 71 00</string>
+
+    <string name="hotel2_name">Radisson Blu Hotel</string>
+    <string name="hotel2_address">Dlugi Targ 19 / Powroznicza, Gdansk 80-828, Poland</string>
+    <string name="hotel2_phone">58 881 35 83</string>
+
+    <string name="hotel3_name">Hanza Hotel</string>
+    <string name="hotel3_address">Tokarska 6, Gdansk 80-888, Poland</string>
+    <string name="hotel3_phone">58 305 34 27</string>
+
+    <string name="hotel4_name">Celestin Residence Hotel</string>
+    <string name="hotel4_address">Straganiarska 19 | Old Town, Gdansk 80-837, Poland</string>
+    <string name="hotel4_phone">-</string>
+
+    <string name="hotel5_name">Podewils Hotel</string>
+    <string name="hotel5_address">Szafarnia 2, Gdansk 80-755, Poland</string>
+    <string name="hotel5_phone">-</string>
+
+    <string name="hotel6_name">Hampton by Hilton</string>
+    <string name="hotel6_address">Juliusza Slowackiego 220, Gdansk 80-298, Poland</string>
+    <string name="hotel6_phone">58 882 10 00</string>
+
+    <string name="hotel7_name">Q Hotel Grand Cru</string>
+    <string name="hotel7_address">Rycerska 11/12, Gdansk 80-882, Poland</string>
+    <string name="hotel7_phone">-</string>
+
+    <string name="hotel8_name">Hotel Gdansk Boutique</string>
+    <string name="hotel8_address">Szafarnia 9, Gdansk 80-755, Poland (Formerly Hotel Gdańsk Superior)</string>
+    <string name="hotel8_phone">58 881 09 17</string>
+
+    <string name="hotel9_name">PURO</string>
+    <string name="hotel9_address">Stagiewna 26, Gdansk 80-750, Poland</string>
+    <string name="hotel9_phone">58 563 50 00</string>
+
+    <string name="hotel10_name">Wolne Miasto Hotel- Old Town Gdansk</string>
+    <string name="hotel10_address">address: Sw. Ducha 2 Street, Gdansk 80-834, Poland</string>
+    <string name="hotel10_phone">-</string>
+
+    <string name="restaurant1_name">Winne Grono</string>
+    <string name="restaurant1_address">Kopernika 17A, Gdansk 80-208, Poland</string>
+    <string name="restaurant1_prices">$$ - $$$</string>
+    <string name="restaurant1_phone">+48 602 218 817</string>
+    <string name="restaurant1_cuisine">Polish, French</string>
+
+    <string name="restaurant2_name">Prologue Restaurant and Bar</string>
+    <string name="restaurant2_address">Grodzka 9 | Main Entrance Is Located on the River Side,
+                                                    Gdansk 80-841, Poland</string>
+    <string name="restaurant2_prices">$$ - $$$</string>
+    <string name="restaurant2_phone">+48 58 526 59 09</string>
+    <string name="restaurant2_cuisine">Polish, Central European</string>
+
+    <string name="restaurant3_name">Pierogarnia Mandu - Oliwa</string>
+    <string name="restaurant3_address">Kaprow 19 D, Gdansk 80-316, Poland</string>
+    <string name="restaurant3_prices">$</string>
+    <string name="restaurant3_phone">+48 58 340 55 44</string>
+    <string name="restaurant3_cuisine">Polish, Eastern European</string>
+
+    <string name="restaurant4_name">Wine Bar and Restaurant Literacka</string>
+    <string name="restaurant4_address">Mariacka 50/52, Gdansk 80-833, Poland</string>
+    <string name="restaurant4_prices">$$ - $$$</string>
+    <string name="restaurant4_phone">+48 500 431 451</string>
+    <string name="restaurant4_cuisine">Polish, Mediterranean</string>
+
+    <string name="restaurant5_name">Familia Bistro</string>
+    <string name="restaurant5_address">Garbary 2 / 4 Street, Gdansk 80-827, Poland</string>
+    <string name="restaurant5_prices">$</string>
+    <string name="restaurant5_phone">+48 512 922 514</string>
+    <string name="restaurant5_cuisine">Polish,  Eastern European</string>
+
+    <string name="restaurant6_name">Fellini</string>
+    <string name="restaurant6_address">Targ Rybny 6, Gdansk 80-838, Poland</string>
+    <string name="restaurant6_prices">$$$$</string>
+    <string name="restaurant6_phone">+48 58 719 76 20</string>
+    <string name="restaurant6_cuisine">Italian, Mediterranean</string>
+
+    <string name="restaurant7_name">Piwna47 Food and Wine</string>
+    <string name="restaurant7_address">Piwna 47, Gdansk 80-831, Poland</string>
+    <string name="restaurant7_prices">$$ - $$$</string>
+    <string name="restaurant7_phone">+48 58 380 88 80</string>
+    <string name="restaurant7_cuisine">International, Polish, European</string>
+
+    <string name="restaurant8_name">Goldwasser</string>
+    <string name="restaurant8_address">Dlugie Pobrzeze 22, Gdansk, Poland</string>
+    <string name="restaurant8_prices">$$ - $$$</string>
+    <string name="restaurant8_phone">+48 58 305 18 65</string>
+    <string name="restaurant8_cuisine">Polish, Eastern European</string>
+
+    <string name="restaurant9_name">Pueblo</string>
+    <string name="restaurant9_address">Kolodziejska 4, Gdansk 80-836, Poland</string>
+    <string name="restaurant9_prices">$$ - $$$</string>
+    <string name="restaurant9_phone">+48 58 322 24 70</string>
+    <string name="restaurant9_cuisine">Grill, Mexican, Latin</string>
+
+    <string name="restaurant10_name">Original Burger</string>
+    <string name="restaurant10_address">Dluga 47/49, Gdansk 80-831, Poland</string>
+    <string name="restaurant10_prices">$</string>
+    <string name="restaurant10_phone">+48 58 306 77 6</string>
+    <string name="restaurant10_cuisine">American</string>
+
+    <string name="thingsToDo1_name">Old Town</string>
+    <string name="thingsToDo1_description">where? in the part of the city north of the modern city
+        center\nwhy? it is an important place in Polish consciousness as the location of the start
+        of World War II and where the fall of Communism in Central Europe began</string>
+
+    <string name="thingsToDo2_name">European Solidarity Centre</string>
+    <string name="thingsToDo2_description">where? pl. Solidarnosci 1, Gdansk 80-863, Poland\nwhy?
+        it is a museum and library in Gdańsk, Poland, devoted to the history of Solidarity, the
+        Polish trade union and civil resistance movement, and other opposition movements of
+        Communist Eastern Europen</string>
+
+    <string name="thingsToDo3_name">Dluga Street (ul. Dluga)</string>
+    <string name="thingsToDo3_description">where? in the Old Town\nwhy? the key landmarks of the
+        town are located along this street and many pleasant places to have coffee or a meal. The
+        street is cobbled with period and interesting ironwork, granite fountains and statuary
+        making it a perfect place for unforgettable pictures</string>
+
+    <string name="thingsToDo4_name">Oliwa Cathedral</string>
+    <string name="thingsToDo4_description">where? ul. Bpa. Edmunda Nowickiego 5, Gdansk 80-330,
+        Poland\nwhy? it is the longest Cistercian church in the world (107m long) and holds works
+        of art in Renaissance, Baroque, Rococo and Classical style of great artistic value</string>
+
+    <string name="thingsToDo5_name">Motlawa River Embankment</string>
+    <string name="thingsToDo5_description">where? Dlugie Pobrzeze, Gdansk, Poland\nwhy? this long
+        embankment along the Motława River is lined with picturesque brick buildings, apartments,
+        and moored vessels. This is a popular location both day and night for visitors</string>
+
+    <string name="thingsToDo6_name">Oliwa Park</string>
+    <string name="thingsToDo6_description">where? Opacka | Oliwa, Gdansk, Poland\n why? it is the
+        green jewel on the map of the region and has a long history. It was probably created in the
+        Middle Ages but its great architectural shape was designed at the turn of 18th and 19th
+        Centuries so you can expect unprecedented views</string>
+
+    <string name="thingsToDo7_name">Crane</string>
+    <string name="thingsToDo7_description">where? Szeroka 67/68 | At Maritime Museum, Gdansk 80-835,
+        Poland\nwhy? the Crane, a former port crane, is one of the most famous symbols of Gdańsk,
+        especially if it comes to its maritime past and glory</string>
+
+    <string name="thingsToDo8_name">Neptune\'s Fountain</string>
+    <string name="thingsToDo8_description">where? Dlugi Targ, Gdansk, Poland\nwhy? it is a very old
+        bronze statue of the sea god erected in 1549 and converted to a fountain in 1633</string>
+
+    <string name="thingsToDo9_name">Oliwa Zoo</string>
+    <string name="thingsToDo9_description">where? Karwienska 3 | Oliwa, Gdansk 80-328, Poland\nwhy?
+        it is the biggest zoo in Poland and has 220 species</string>
+
+    <string name="thingsToDo10_name">AmberSky Gdansk - Scenic circle</string>
+    <string name="thingsToDo10_description">where? Chmielna 6 | Granary Island, Gdansk 80-748,
+        Poland\nwhy? this is a nice little alternative to walking around the museums and looking at
+        everyting with no distance</string>
+
+
+    <string name="event1_name">St Dominic Fair</string>
+    <string name="event1_description"> (the first three weeks of August) St. Dominic Fair, together
+        with Weihnachtmarkt and Oktoberfest, is one of the biggest trade and cultural open-air
+        events in Europe, organized in the Main City – the representative part of Gdańsk,
+        Poland. </string>
+
+    <string name="event2_name">Shakespearean Festival</string>
+    <string name="event2_description">(first decade of August) An international review of most
+        interesting productions of the unmatched plays by the Master of Stratford.</string>
+
+    <string name="event3_name">‘Baltic Sail’ International Sailing Rally</string>
+    <string name="event3_description">(late July) A colourful festivity of the sails in the
+        historic heart of Gdańsk: regattas, tall ship parades, and a shanty festival.</string>
+
+    <string name="event4_name">International Festival of Organ, Choir, and Chamber Music</string>
+    <string name="event4_description">(July-August) Friday concerts by organ players, choirs, and
+        soloists, chamber ensembles and symphonic orchestras in the magnificent St Mary’s
+        Basilica.</string>
+
+    <string name="event5_name">Gdańsk Musical Summer</string>
+    <string name="event5_description">(July-August) A cycle of classical music concerts given by
+        world celebrities in the breathtaking scenery of the amphitheatre on the Motława
+        River.</string>
+
+    <string name="address_icon_description">address_icon</string>
+    <string name="phone_icon_description">phone_icon</string>
+    <string name="prices_icon_description">prices_icon</string>
+    <string name="cuisine_icon_description">cuisine_icon</string>
+    <string name="image_description">image</string>
+    <string name="map_description">map</string>
+
+</resources>
